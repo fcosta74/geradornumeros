@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+body{
+    font: normal 1.5em arial;
+    background-color: rgb(192, 199, 184);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif , cursive; 
+    font-weight: normal;
+}
+button{
+    padding: 40px;
+    font-size: 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: antiquewhite;
+}
